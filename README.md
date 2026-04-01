@@ -1,2 +1,2 @@
-# cal13
-internship project
+# LOGICAL CALCULATOR
+For Practice
